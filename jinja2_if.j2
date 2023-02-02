@@ -1,0 +1,6 @@
+# cat jinja2_if.j2
+{% for person in people %}
+{% if person.age > 18 %}
+My name is {{ person.name }}, and I am {{ person['age'] }} years old.
+{% endif %}
+{% endfor %}

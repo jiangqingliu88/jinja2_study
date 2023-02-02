@@ -1,0 +1,5 @@
+env = Environment(loader=FileSystemLoader('./templates/'))
+env.filters['datetimeformat'] = datetimeformat
+{{ article.pub_date|datetimeformat }}
+# 传参方法
+# {{ 42| myfilter(23) }} ==  myfilter(42, 23)
