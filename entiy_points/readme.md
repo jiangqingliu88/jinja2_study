@@ -1,0 +1,2 @@
+https://blog.csdn.net/mouday/article/details/90582313?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167532843716800213076385%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167532843716800213076385&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-90582313-null-null.142^v72^pc_search_v2,201^v4^add_ask&utm_term=entry_points&spm=1018.2226.3001.4187
+要将python模块转变为命令行工具只用在 setup.py 文件中添加参数entry_points
