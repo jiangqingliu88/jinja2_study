@@ -16,3 +16,7 @@
 
 csdn
 python 自己写package 导入 attempted relative import beyond top-level package
+#   __init__.py__init__.py
+1. __init__.py
+__init__.py 文件的作用是将文件夹变为一个Python模块,Python 中的每个模块的包中，都有__init__.py 文件.
+
